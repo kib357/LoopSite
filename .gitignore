@@ -1,0 +1,6 @@
+logs/*
+.idea/
+!.gitkeep
+gulp/
+node_modules/
+bower/
