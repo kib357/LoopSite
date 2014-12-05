@@ -1,0 +1,11 @@
+{
+  "name": "loopsite.io",
+  "description": "loopsite",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "latest",
+    "fontawesome": "latest"
+  }
+}
