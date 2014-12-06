@@ -6,6 +6,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "latest",
-    "fontawesome": "latest"
+    "fontawesome": "latest",
+    "normalize.css": "latest"
   }
 }
